@@ -13,13 +13,11 @@ public class ArrayDemo {
 		 
 		 
 				
+		 
+		 
 		 System.out.println(num[0]);
-		 
-		 
-		 
-		 
-		
-		
+	 }
+		 public void  m1() {
 		
 	}
 }
